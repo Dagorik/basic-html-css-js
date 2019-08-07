@@ -1,0 +1,58 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    font-size: 18px;
+}
+
+.header{
+    background: #e9e7e7;
+    height: 50px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30px;
+}
+
+a{
+    margin-right: 5px;
+}
+
+.logo{
+    width: 50%;
+}
+
+.search{
+    text-align: center;
+}
+
+input{
+    width: 50%;
+    font-size: 35px;
+    border-radius: 20px;
+    border: 1px solid #D8D8D8D8;
+}
+
+input:focus{
+    outline: none;
+    border: 1.5px solid #4285F4;
+}
+
+.search-btns button{
+    background: #dadadad8;
+    height: 35px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.google{
+    font-size: 18px;
+}
+.text-black{
+    color: black
+}
+
+.text-blue{
+    color: blue;
+}

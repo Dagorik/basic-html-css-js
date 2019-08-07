@@ -1,0 +1,31 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.padre{
+    height: 20rem;
+}
+
+.color1{
+    background: blue;
+}
+
+.color2{
+    background: red;
+}
+
+.color3{
+    background: yellow;
+}
+
+.color4{
+    background: green;
+}
+
+.color5{
+    background: palevioletred;
+}
+
+.color6{
+    background: purple;
+}

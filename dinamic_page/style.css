@@ -1,0 +1,16 @@
+body{
+    width: 50%;
+}
+
+.card{
+    box-shadow: 10px 10px 5px 0px rgba(238, 238, 238, 1);
+    text-align: center;
+    background: #f0f0f0; 
+    margin: 15px;
+    padding: 10px;
+}
+
+img{
+    width: 80%;
+    height: 100%;
+}

@@ -1,0 +1,15 @@
+.fondo-verde{
+    background: #049404;
+}
+
+.fondo-azul{
+    background: #4e4ec2;
+}
+
+.izquierda{
+    float: left;
+}
+
+.derecha{
+    float: right;
+}
